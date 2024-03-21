@@ -1,3 +1,7 @@
-<h1> Este sera el titulo de mi proyecto </h1>
+<h1> Sistema De Registro </h1>
 
-- Aca agregaremos mas informacion. 
+- Estado del proyecto: En construccion.
+
+  Para ejectutar el sistema, debes poner:
+
+   ```npm install react ```
